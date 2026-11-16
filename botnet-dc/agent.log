@@ -1,0 +1,47 @@
+2026-11-14 08:45:47,716 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 08:45:47,717 [INFO] primeira execuÃ§Ã£o: replicando histÃ³rico de config silenciosamente
+2026-11-14 09:25:23,151 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:30:57,466 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:32:05,173 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:33:28,870 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:33:29,129 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 09:33:29,130 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 09:33:29,130 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 09:33:29,132 [INFO] logging in using static token
+2026-11-14 09:33:30,343 [INFO] Shard ID None has connected to Gateway (Session ID: a55e266cf40be384a325c18eee8e8a8c).
+2026-11-14 09:33:32,352 [INFO] gateway conectado como gerenciador de ispositivos#2950
+2026-11-14 09:37:14,087 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:37:14,362 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 09:37:14,362 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 09:37:14,362 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 09:37:14,364 [INFO] logging in using static token
+2026-11-14 09:37:16,213 [INFO] Shard ID None has connected to Gateway (Session ID: ca31ed6e9e45c717144dede8ba93229f).
+2026-11-14 09:37:18,218 [INFO] gateway conectado como gerenciador de ispositivos#2950
+2026-11-14 09:43:14,323 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:43:14,891 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 09:43:14,891 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 09:43:14,891 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 09:43:14,893 [INFO] logging in using static token
+2026-11-14 09:43:16,161 [INFO] Shard ID None has connected to Gateway (Session ID: 2f9acb427fe9428d6e51815ebe0e2c51).
+2026-11-14 09:43:18,167 [INFO] gateway conectado como gerenciador de ispositivos#2950
+2026-11-14 09:46:05,087 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:46:05,351 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 09:46:05,351 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 09:46:05,351 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 09:46:05,353 [INFO] logging in using static token
+2026-11-14 09:46:06,541 [INFO] Shard ID None has connected to Gateway (Session ID: b3b3468d0c785d3b2003f258a7df1738).
+2026-11-14 09:46:08,547 [INFO] gateway conectado como gerenciador de ispositivos#2950
+2026-11-14 09:50:34,628 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 09:50:35,006 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 09:50:35,006 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 09:50:35,006 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 09:50:35,008 [INFO] logging in using static token
+2026-11-14 09:50:36,273 [INFO] Shard ID None has connected to Gateway (Session ID: 4a8c7a9a13c7d051261efc950fdf9c28).
+2026-11-14 09:50:38,284 [INFO] gateway conectado como gerenciador de ispositivos#2950
+2026-11-14 10:36:25,312 [INFO] agente iniciado: device_id=d3119e97db3c name=DESKTOP-5L633F0
+2026-11-14 10:36:26,996 [WARNING] Guilds intent seems to be disabled. This may cause state related issues.
+2026-11-14 10:36:26,996 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-11-14 10:36:26,996 [WARNING] davey is not installed, voice will NOT be supported
+2026-11-14 10:36:26,998 [INFO] logging in using static token
+2026-11-14 10:36:28,162 [INFO] Shard ID None has connected to Gateway (Session ID: ff373e219ad2f0e918325ef4ce7aa804).
+2026-11-14 10:36:30,175 [INFO] gateway conectado como ukn0w_bot#2950

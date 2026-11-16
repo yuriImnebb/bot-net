@@ -1,0 +1,8 @@
+{
+  "token": "TOKEN_DO_BOT_AQUI",
+  "config_channel_id": "ID_DO_CANAL_DE_CONFIG",
+  "authorized_user_ids": ["SEU_USER_ID"],
+  "device_name": "",
+  "poll_interval": 3,
+  "announce_on_start": true
+}
